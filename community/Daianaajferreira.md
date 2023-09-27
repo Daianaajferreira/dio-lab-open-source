@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/daianajesusferreira/)
 
 
-## Habilidades
+## Habilidades:
 🎓 Trabalho na area de TI
 
 👩‍💻 Busco oportunidade na área e dados
@@ -20,6 +20,8 @@
 Profissional apaixonada por tecnologia.
 
 Gosto muito de shows e comida boa. Meu hobbies é trilha e acampar.
+
+
 
 
 
